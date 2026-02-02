@@ -13,6 +13,8 @@ struct madhushaApp: App {
         WindowGroup {
             
             LandingView()
+            
+            
         }
     }
 }
